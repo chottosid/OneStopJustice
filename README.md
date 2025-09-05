@@ -73,7 +73,3 @@ npm start
 ```
 
 That's it! The system should be up and running. Check the technical documentation for more detailed setup instructions and API documentation.
-
----
-
-*Built with ❤️ for Bangladesh Blockchain Olympiad 2025*
